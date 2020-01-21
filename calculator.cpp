@@ -3,7 +3,7 @@
 #include <cctype>
 #include <cmath>
 #include <string>
-#include "dstack.h"
+#include "stack.h"
 
 //cerr error message that prints to standard error
 void error_message ();

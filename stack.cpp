@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <cassert>
-#include "dstack.h"
+#include "stack.h"
 
 //constructor for dstack
 Dstack::Dstack () { 
